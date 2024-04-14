@@ -1,4 +1,4 @@
 # test
 This is my first Git Repository
 <br>
-Author - Piyush Barapatre
+Author - Piyush (demo slide)
